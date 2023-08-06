@@ -1,1 +1,1 @@
-# Machine-Learning-with-Spatial-Interpolation
+# Machine-Learning-Spatial-Interpolation
